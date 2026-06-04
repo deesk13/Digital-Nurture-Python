@@ -1,188 +1,169 @@
-### Python 3 Programming Exercises
-This repository contains solutions for 55 Python Programming Exercises covering fundamentals, data structures, object-oriented programming, file handling, error handling, modules, and real-world application simulations.
+# Python 3 Programming Exercises
 
-The exercises are designed to strengthen problem-solving skills and practical Python development.
 
-## Topics Covered
-Python Basics
-Installing Python
-Running Python Programs
-Jupyter Notebook
-VS Code Setup
-Variables
-Data Types
-Mathematical Operations
-User Input
-Control Flow
-If Statements
-If-Else
-If-Elif-Else
-Nested If
-For Loop
-While Loop
-Break
-Continue
-Pass
-Program Organization
-Functions
-Modules
-Comments
-Indentation
-File Handling
-Reading Files
-Writing Files
-Error Handling
-Try-Except
-Data Structures
-Lists
-Dictionaries
-Tuples
-Sets
-Object-Oriented Programming
-Classes
-Objects
-Method Chaining
-Inheritance
-Polymorphism
-Class Methods
-Real-World Applications
-Employee Management System
-Data Analysis Pipeline
-Configuration Manager
-CSV Data Processor
-Expense Tracker
-API Response Handler
-Calculator
-Shopping Cart
-Temperature Converter
-Backup Utility
-URL Shortener
-Gradebook System
-Task Scheduler
-Inventory Manager
-Budget Planner
-## Exercise Solutions
+# Exercise Solutions
+
 ## 1. Simple Hello World
-Question: Create first.py with print("Hello World!"), run the program, and display the terminal output.
+**Question:** Create `first.py` with `print("Hello World!")`, run the program, and display the terminal output.
 
-<img width="558" height="380" alt="image" src="https://github.com/user-attachments/assets/2c535743-90c8-4a80-8d18-89562b464675" />
+<img src="images/q1.png" width="500">
 
+
+---
 
 ## 2. Jupyter Notebook
-Question: Create a Jupyter Notebook, add code cells and markdown cells, and execute them.
-<img width="557" height="263" alt="image" src="https://github.com/user-attachments/assets/44d4399a-41d7-4aa1-8bdb-b7def4f4aace" />
+**Question:** Create a Jupyter Notebook, add code cells and markdown cells, and execute them.
+
+<img src="images/q2_1.png" width="500">
+
+<img src="images/q2_2.png" width="500">
 
 
+
+---
 
 ## 3. VS Code Setup
-Question: Configure Python in VS Code, create a Python file, and verify IntelliSense and execution.
-<img width="545" height="305" alt="image" src="https://github.com/user-attachments/assets/fe6d80b1-12bc-4998-b7ce-6de749de04cb" />
+**Question:** Configure Python in VS Code, create a Python file, and verify IntelliSense and execution.
+
+<img src="images/q3_1.png" width="500">
+
+<img src="images/q3_3.png" width="500">
 
 
-
-
+---
 
 ## 4. Float Precision
-Question: Calculate net salary after tax using salary = 75000.5 and tax_rate = 0.18. Display the result with 2 decimal places.
-<img width="527" height="426" alt="image" src="https://github.com/user-attachments/assets/93e52d7f-9d8d-4869-b116-5951de154e03" />
+**Question:** Calculate net salary after tax using `salary = 75000.5` and `tax_rate = 0.18`. Display the result with 2 decimal places.
+
+<img src="images/q4.png" width="500">
 
 
+---
 
 ## 5. Multiple Assignment
-Question: Use multiple assignment to unpack (x, y) coordinates and display them.
-<img width="526" height="421" alt="image" src="https://github.com/user-attachments/assets/1c70ee44-31b1-4c5c-b775-2493998d06df" />
+**Question:** Use multiple assignment to unpack `(x, y)` coordinates and display them.
+
+<img src="images/q5.png" width="500">
 
 
+---
 
 ## 6. Modulo Operator
-Question: Determine whether number = 17 is Even or Odd using the modulo operator.
-<img width="548" height="460" alt="image" src="https://github.com/user-attachments/assets/f0943fcb-fd2f-4164-8952-17c725890004" />
+**Question:** Determine whether `number = 17` is Even or Odd using the modulo operator.
+
+<img src="images/q6.png" width="500">
 
 
+---
 
 ## 7. Floor Division
-Question: Split total_bill = 1250 among people = 4 using floor division and display each person's share.
-<img width="537" height="425" alt="image" src="https://github.com/user-attachments/assets/f326ad45-4339-442f-b75b-111d58c64f4f" />
+**Question:** Split `total_bill = 1250` among `people = 4` using floor division and display each person's share.
+
+<img src="images/q7.png" width="500">
 
 
+---
 
 ## 8. Min/Max Functions
-Question: Find the highest and lowest salary from [50000, 75000, 62000, 95000].
-<img width="550" height="450" alt="image" src="https://github.com/user-attachments/assets/4f6cf0d0-fe47-4d95-bca4-5d0b3bfba879" />
+**Question:** Find the highest and lowest salary from `[50000, 75000, 62000, 95000]`.
+
+<img src="images/q8.png" width="500">
 
 
+---
 
 ## 9. Basic Input
-Question: Accept the user's name and display a greeting message.
+**Question:** Accept the user's name and display a greeting message.
 
-<img width="543" height="418" alt="image" src="https://github.com/user-attachments/assets/64cb92c8-7198-47a3-bcb9-ec646c77884c" />
+<img src="images/q9.png" width="500">
 
+
+---
 
 ## 10. Numeric Input
-Question: Accept age as input, convert it to integer, and display the next year's age.
-<img width="463" height="412" alt="image" src="https://github.com/user-attachments/assets/a5434bf5-afd3-4091-96f2-36f6de3606bd" />
+**Question:** Accept age as input, convert it to integer, and display the next year's age.
+
+<img src="images/q10.png" width="500">
 
 
+---
 
 ## 11. Float Input
-Question: Accept weight in kilograms and convert it into pounds.
-<img width="533" height="450" alt="image" src="https://github.com/user-attachments/assets/60fa7e8f-e247-447c-bb93-3d721378f488" />
+**Question:** Accept weight in kilograms and convert it into pounds.
+
+<img src="images/q11.png" width="500">
 
 
+---
 
-12. Simple If
-Question: Check whether a student passes or fails using marks = 75.
-<img width="541" height="441" alt="image" src="https://github.com/user-attachments/assets/87889eee-16b5-4f31-8dcf-86109abea184" />
+## 12. Simple If
+**Question:** Check whether a student passes or fails using `marks = 75`.
+
+<img src="images/q12.png" width="500">
 
 
+---
 
 ## 13. If-Else
-Question: Determine whether num = 8 is Even or Odd.
-<img width="541" height="437" alt="image" src="https://github.com/user-attachments/assets/4f559991-1d11-434b-aefd-db4ac2116e94" />
+**Question:** Determine whether `num = 8` is Even or Odd.
+
+<img src="images/q13.png" width="500">
 
 
+---
 
 ## 14. If-Elif-Else
-Question: Assign grade A, B, or C using score = 88.
-<img width="545" height="412" alt="image" src="https://github.com/user-attachments/assets/5ad6905c-d232-4852-b22e-13c6e092ef1e" />
+**Question:** Assign grade A, B, or C using `score = 88`.
+
+<img src="images/q14.png" width="500">
 
 
+---
 
 ## 15. Nested If
-Question: Validate login credentials using nested if statements with user = "admin" and pwd = "pass123".
-<img width="525" height="437" alt="image" src="https://github.com/user-attachments/assets/0a2b7ef9-c144-477c-ad12-07c05ce50d4a" />
+**Question:** Validate login credentials using nested if statements with `user = "admin"` and `pwd = "pass123"`.
+
+<img src="images/q15.png" width="500">
 
 
+---
 
 ## 16. For Loop Basics
-Question: Print numbers from 1 to 5 using a for loop.
-<img width="516" height="425" alt="image" src="https://github.com/user-attachments/assets/16d65e1e-63ad-4102-a126-961d34782ae5" />
+**Question:** Print numbers from 1 to 5 using a for loop.
+
+<img src="images/q16.png" width="500">
 
 
+---
 
 ## 17. While Loop
-Question: Perform a countdown from 5 to 1 using a while loop.
-<img width="555" height="430" alt="image" src="https://github.com/user-attachments/assets/bc53c209-df7e-49ff-87b0-37266acd6799" />
+**Question:** Perform a countdown from 5 to 1 using a while loop.
+
+<img src="images/q17.png" width="500">
 
 
+---
 
 ## 18. Break Statement
-Question: Find and print the first even number in a given range using break.
-<img width="531" height="420" alt="image" src="https://github.com/user-attachments/assets/d88f15df-25f6-4790-8c19-a756a751f467" />
+**Question:** Find and print the first even number in a given range using break.
+
+<img src="images/q18.png" width="500">
 
 
+---
 
 ## 19. Continue Statement
-Question: Sum only odd numbers while skipping even numbers using continue.
-<img width="542" height="391" alt="image" src="https://github.com/user-attachments/assets/280b224f-3258-4e49-9ab0-2820741a27c9" />
+**Question:** Sum only odd numbers while skipping even numbers using continue.
+
+<img src="images/q19.png" width="500">
 
 
+---
 
 ## 20. Pass Statement
-Question: Define an empty function using pass and display a confirmation message.
-<img width="540" height="392" alt="image" src="https://github.com/user-attachments/assets/62ee9ce3-7f21-437f-b65c-c6eef94d361a" />
+**Question:** Define an empty function using pass and display a confirmation message.
 
-
+<img src="images/q20.png" width="500">
 
 
 ---
