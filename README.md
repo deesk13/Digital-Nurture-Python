@@ -502,9 +502,3 @@ The exercises are designed to strengthen problem-solving skills and practical Py
 
 
 
-# Author
-
-**KARTHIKEYAN M**
-
-B.E. CSE (IoT)  
-Saveetha Engineering College
