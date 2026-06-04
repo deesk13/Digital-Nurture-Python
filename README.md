@@ -185,10 +185,12 @@ Question: Define an empty function using pass and display a confirmation message
 
 
 
+---
+
 ## 21. Consistent Indentation
 **Question:** Use nested if statements with proper indentation and print "Nested".
 
-<img src="Task Solution Images/task 21/Screenshot 2026-05-27 134544.png" width="500">
+<img src="images/q21.png" width="500">
 
 
 ---
@@ -196,7 +198,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 22. Comment Usage
 **Question:** Use comments to explain a program that calculates total salary using base and bonus.
 
-<img src="Task Solution Images/task 22/Screenshot 2026-05-27 134711.png" width="500">
+<img src="images/q22.png" width="500">
 
 
 ---
@@ -204,7 +206,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 23. Import Standard Module
 **Question:** Use the math module to calculate the area of a circle.
 
-<img src="Task Solution Images/task 23/Screenshot 2026-05-27 134807.png" width="500">
+<img src="images/q23.png" width="500">
 
 
 ---
@@ -212,7 +214,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 24. All Import
 **Question:** Use `from math import *` and demonstrate functions like `sqrt()`, `pow()`, and `pi`.
 
-<img src="Task Solution Images/task 24/Screenshot 2026-05-27 134930.png" width="500">
+<img src="images/q24.png" width="500">
 
 
 ---
@@ -220,7 +222,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 25. Parameters
 **Question:** Create a function that adds two numbers and returns the result.
 
-<img src="Task Solution Images/task 25/Screenshot 2026-05-27 135053.png" width="500">
+<img src="images/q25.png" width="500">
 
 
 ---
@@ -228,7 +230,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 26. Multiple Parameters
 **Question:** Create a function that calculates the area of a rectangle using length and width.
 
-<img src="Task Solution Images/task 26/Screenshot 2026-05-27 135219.png" width="500">
+<img src="images/q26.png" width="500">
 
 
 ---
@@ -236,7 +238,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 27. Len Function
 **Question:** Find the length of a given string using `len()`.
 
-<img src="Task Solution Images/task 27/Screenshot 2026-05-27 135353.png" width="500">
+<img src="images/q27.png" width="500">
 
 
 ---
@@ -244,7 +246,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 28. Write to File
 **Question:** Create a text file and write "Hello World" into it.
 
-<img src="Task Solution Images/task 28/Screenshot 2026-05-27 135457.png" width="500">
+<img src="images/q28.png" width="500">
 
 
 ---
@@ -252,7 +254,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 29. Read from File
 **Question:** Read and display the contents of a text file.
 
-<img src="Task Solution Images/task 29/Screenshot 2026-05-27 135627.png" width="500">
+<img src="images/q29.png" width="500">
 
 
 ---
@@ -260,7 +262,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 30. Basic Try-Except
 **Question:** Safely divide two numbers and handle division-by-zero errors.
 
-<img src="Task Solution Images/task 30/Screenshot 2026-05-27 135729.png" width="500">
+<img src="images/q30.png" width="500">
 
 
 ---
@@ -268,7 +270,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 31. Create List
 **Question:** Create a shopping cart list `[100, 250, 75]` and display its contents.
 
-<img src="Task Solution Images/task 31-55/task 31.png" width="500">
+<img src="images/q31.png" width="500">
 
 
 ---
@@ -276,7 +278,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 32. Append to List
 **Question:** Add a new expense to an existing expenses list using `.append()`.
 
-<img src="Task Solution Images/task 31-55/task 32.png" width="500">
+<img src="images/q32.png" width="500">
 
 
 ---
@@ -284,7 +286,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 33. Update Dictionary
 **Question:** Merge employee details from two dictionaries using `.update()`.
 
-<img src="Task Solution Images/task 31-55/task 33.png" width="500">
+<img src="images/q33.png" width="500">
 
 
 ---
@@ -292,7 +294,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 34. Nested Dictionary
 **Question:** Store department-wise employee information and retrieve a specific employee's salary.
 
-<img src="Task Solution Images/task 31-55/task 34.png" width="500">
+<img src="images/q34.png" width="500">
 
 
 ---
@@ -300,7 +302,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 35. Create Tuple
 **Question:** Store fixed coordinates in a tuple and display them.
 
-<img src="Task Solution Images/task 31-55/task 35.png" width="500">
+<img src="images/q35.png" width="500">
 
 
 ---
@@ -308,7 +310,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 36. Set Intersection
 **Question:** Find common skills between two sets using intersection.
 
-<img src="Task Solution Images/task 31-55/task 36.png" width="500">
+<img src="images/q36.png" width="500">
 
 
 ---
@@ -316,7 +318,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 37. Multiple Instances
 **Question:** Create multiple employee objects and display employee details.
 
-<img src="Task Solution Images/task 31-55/task 37.png" width="500">
+<img src="images/q37.png" width="500">
 
 
 ---
@@ -324,7 +326,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 38. Method Chaining
 **Question:** Create an employee object, apply salary updates using method chaining, and display the final salary.
 
-<img src="Task Solution Images/task 31-55/task 38.png" width="500">
+<img src="images/q38.png" width="500">
 
 
 ---
@@ -332,7 +334,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 39. Polymorphism
 **Question:** Demonstrate polymorphism using different employee types implementing a common `work()` method.
 
-<img src="Task Solution Images/task 31-55/task 39.png" width="500">
+<img src="images/q39.png" width="500">
 
 
 ---
@@ -340,7 +342,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 40. Class Methods
 **Question:** Create Employee objects using a class method that parses a string such as `"Shubh,75000"`.
 
-<img src="Task Solution Images/task 31-55/task 40.png" width="500">
+<img src="images/q40.png" width="500">
 
 
 ---
@@ -348,7 +350,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 41. Employee Management System
 **Question:** Build an Employee Management System that saves and loads employee data using JSON.
 
-<img src="Task Solution Images/task 31-55/task 41.png" width="500">
+<img src="images/q41.png" width="500">
 
 
 ---
@@ -356,7 +358,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 42. Data Analysis Pipeline
 **Question:** Read sales data from a file and calculate mean and median values.
 
-<img src="Task Solution Images/task 31-55/task 42.png" width="500">
+<img src="images/q42.png" width="500">
 
 
 ---
@@ -364,7 +366,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 43. Configuration Manager
 **Question:** Create a configuration manager that loads database settings from a configuration file.
 
-<img src="Task Solution Images/task 31-55/task 43.png" width="500">
+<img src="images/q43.png" width="500">
 
 
 ---
@@ -372,7 +374,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 44. CSV Data Processor
 **Question:** Process employee salary data from a CSV file and calculate average salary.
 
-<img src="Task Solution Images/task 31-55/task 44.png" width="500">
+<img src="images/q44.png" width="500">
 
 
 ---
@@ -380,7 +382,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 45. Expense Tracker
 **Question:** Analyze monthly expenses from a CSV file and generate category-wise totals.
 
-<img src="Task Solution Images/task 31-55/task 45.png" width="500">
+<img src="images/q45.png" width="500">
 
 
 ---
@@ -388,7 +390,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 46. API Response Handler
 **Question:** Fetch weather information from an API and safely display temperature and conditions.
 
-<img src="Task Solution Images/task 31-55/task 46.png" width="500">
+<img src="images/q46.png" width="500">
 
 
 ---
@@ -396,7 +398,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 47. Complete Calculator Program
 **Question:** Build a calculator supporting addition, subtraction, multiplication, and division with error handling.
 
-<img src="Task Solution Images/task 31-55/task 47.png" width="500">
+<img src="images/q47.png" width="500">
 
 
 ---
@@ -404,7 +406,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 48. Shopping Cart System
 **Question:** Create a shopping cart system with GST calculation and receipt generation.
 
-<img src="Task Solution Images/task 31-55/task 48.png" width="500">
+<img src="images/q48.png" width="500">
 
 
 ---
@@ -412,7 +414,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 49. Temperature Converter
 **Question:** Convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-<img src="Task Solution Images/task 31-55/task 49.png" width="500">
+<img src="images/q49.png" width="500">
 
 
 ---
@@ -420,7 +422,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 50. Backup Utility
 **Question:** Build a backup utility that copies files, skips duplicates, and logs operations.
 
-<img src="Task Solution Images/task 31-55/task 50.png" width="500">
+<img src="images/q50.png" width="500">
 
 
 ---
@@ -428,7 +430,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 51. URL Shortener
 **Question:** Create a URL shortening service using hashing and dictionary storage.
 
-<img src="Task Solution Images/task 31-55/task 51.png" width="500">
+<img src="images/q51.png" width="500">
 
 
 ---
@@ -436,7 +438,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 52. Gradebook System
 **Question:** Manage student grades, calculate GPA, and compute class averages.
 
-<img src="Task Solution Images/task 31-55/task 52.png" width="500">
+<img src="images/q52.png" width="500">
 
 
 ---
@@ -444,7 +446,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 53. Task Scheduler
 **Question:** Create a task scheduler that sorts tasks by due date and identifies overdue tasks.
 
-<img src="Task Solution Images/task 31-55/task 53.png" width="500">
+<img src="images/q53.png" width="500">
 
 
 ---
@@ -452,7 +454,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 54. Inventory Manager
 **Question:** Build an inventory management system with stock tracking and low-stock alerts.
 
-<img src="Task Solution Images/task 31-55/task 54.png" width="500">
+<img src="images/q54.png" width="500">
 
 
 ---
@@ -460,25 +462,7 @@ Question: Define an empty function using pass and display a confirmation message
 ## 55. Budget Planner
 **Question:** Create a budget planner that tracks expenses, detects overspending, and visualizes spending using charts.
 
-<img src="Task Solution Images/task 31-55/task 55.png" width="500">
+<img src="images/q55.png" width="500">
 
 
----
-
-# Technologies Used
-
-- Python 3
-- Jupyter Notebook
-- VS Code
-- JSON
-- CSV
-- Requests
-- Statistics
-- ConfigParser
-- Datetime
-- Math Module
-- Matplotlib
-- OOP Concepts
-
----
 ---
